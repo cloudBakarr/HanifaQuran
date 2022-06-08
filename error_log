@@ -1,0 +1,1 @@
+[06-Jun-2022 22:19:08 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/alfaryad/hanfiaquran.techxtorm.com/code.php on line 11
